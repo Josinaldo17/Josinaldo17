@@ -5,7 +5,7 @@
 </div>
 
 
-<img align="center" alt="" src="./src/heaer-gif.gif">
+<img align="center" alt="" src="./src/header-gif.gif">
 
 #
 
