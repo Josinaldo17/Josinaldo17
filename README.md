@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![Blog](https://img.shields.io/website?label=Josinaldodev.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://josinaldodev.onrender.com)
+[![Blog](https://img.shields.io/website?label=Josinaldodev.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://josinaldodev.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josinaldo.17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josinaldo-rodrigues-7a5510322/)
 
