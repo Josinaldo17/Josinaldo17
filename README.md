@@ -58,10 +58,10 @@
   
   
 </div>
-
+<!--
 #
 
-<div style="text-align: center;" align="center">
+<!-- <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
   <img 
@@ -81,7 +81,7 @@
 
 
 <br><br><br><br><br><br><br>
-</div>
+</div> -->
 
 
 #
